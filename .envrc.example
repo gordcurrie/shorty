@@ -1,0 +1,3 @@
+export GOOSE_DRIVER=mysql
+export GOOSE_DBSTRING=USER:PW@(127.0.0.1:3309)/shorty_db
+
